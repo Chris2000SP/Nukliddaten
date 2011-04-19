@@ -1,0 +1,9 @@
+    NukF[1] := 15578368;	// ß-		Negatronen-Zerfall
+    NukF[2] := 9240718; 	// ß+		Positronen-Zerfall
+    NukF[3] := 15871;		// p      (ly)		Protonen-Zerfall
+    NukF[4] := 9371647;	// alpha		Alpha-Zerfall
+    NukF[5] := 16110739;	// ec     (n)		Elektronen-Einfang
+    NukF[6] := 4833871;	// ly     (sf)		Isomeren-Zerfall
+    NukF[7] := 6393588;	// sf     (p)		Spontanspaltung
+    NukF[8] := 9240831;	// ce     (ec)	Cluster-Emission
+    NukF[9] := 11036544;	// n      (ce)	Neutronen-Emission

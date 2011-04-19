@@ -1,0 +1,10 @@
+Ein Blick auf die Nuklidkarte zeigt:
+- Es gibt 177 stabile Isotope mit geraden Protonen – und
+Neutronenzahlen
+- Es gibt nur 6 stabile Isotope, bei denen Protonenzahl und
+Neutronenzahl beide ungerade sind
+- Konfigurationen, bei denen Protonen und Neutronen Paare bilden
+können, sind offensichtlich stabiler
+- Alle gerade – gerade – Kerne haben Jp = 0+
+- Energetisch günstige Kombinationen ergeben sich, wenn Paare
+von Nukleonen sich zum gemeinsamen Drehimpuls 0 ergänzen

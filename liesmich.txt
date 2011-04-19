@@ -1,0 +1,21 @@
+			Nukliddaten
+		 Nuklidkarte und Periodensystem
+
+		         Freeware-Programm
+
+Copyright © 2007-2008 by Holger Werner
+
+Installation:
+-------------
+Extrahieren Sie den Inhalt von nukliddaten.zip in ein beliebiges Verzeichnis Ihrer Festplatte oder einem anderen beschreibbaren Datenmedium, wie z.B. ein USB-Stick.
+Starten Sie Nukliddaten.exe und alles weitere ergibt sich Ihnen selbsterklärend. Das Programm ist sehr einfach in seiner Handhabung, so dass keine Schwierigkeiten auftreten sollten.
+
+Nukliddaten ist kostenlos und Sie setzen sie auf eigene Verantwortung so ein "wie sie ist". 
+Sie wurde mit Delphi6 unter WinXP entwickelt und es zeigten sich bisher keinerlei Probleme, was z.B. bei älteren Betriebssystemen der Fall sein könnte, aber unwahrscheinlich ist.
+
+Viel Spaß mit Ihrer neuen Chemie- bzw. Nuklidware!
+_______________________________________________________________________
+
+Nukliddaten ist Freeware, soll und kann weitergegeben werden unter der Bedingung, dass alle zu ihm gehörenden Dateien zusammenbleiben. Eine Nutzung des Programms zu kommerziellen Zwecken ist ausdrücklich untersagt. Die Veröffentlichung auf harten Medien bedarf der Zustimmung des Autors. Über eine Zurverfügungstellung von Nukliddaten in FTP-Archiven etc. möchte der Autor zumindest benachrichtigt werden.
+
+Bitte achten Sie das geistige Eigentum von Software-Programmierern!

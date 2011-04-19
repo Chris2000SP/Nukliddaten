@@ -1,0 +1,64 @@
+iZA - ftInteger
+Symb - ftString
+DMasse - ftFloat												//Atommasse in u
+MDefeV - ftFloat												//
+MDefu - ftFloat												//
+MDefJ - ftFloat												//
+Dichte - ftFloat												//Dichte des Elements in g/cm³, gasförmige Elemente in g/L bei 1013 mbar
+SchmTemp - ftFloat												//Schmelztemperatur des Elementes in C°
+SiedeTemp - ftFloat												//Siedetemperatur des Elementes in C°
+AnzNatIso - ftString		==> ftFloat	r=0,1								//Anzahl natürlicher Isotope r: nur Radioisotope in Zerfallsreihen oder aus anderen natürlichen Kernprozessen
+AnzStabIso - ftInteger											//Anzahl stabiler Isotope dieses Elements
+AnzInstabIso - ftInteger											//Anzahl bekannter instabiler Isotope dieses Elements
+MassErd - ftFloat												//Massenanteil des Elements in der Erdkruste (Atmosphäre + Weltmeere + Erdkruste bis 16km)
+ElekN - ftFloat												//Elektronegativität nach Allred und Rochow
+IEnergie - ftFloat												//1. Ionisierungsenergie in eV
+IRadius - ftInteger												//Ionenradius in pm
+KRadius - ftInteger												//Kovalenzradius für Einfachbindungen in pm
+ARadius - ftString		==> ftFloat	a=0,01; d=0,02 g=0,03; G=0,04; w=0,05				//Atomradius in pm (Atomabstand/2 in Element) Manchmal spezielle Form z.B. FE: 124,1a in alpha-Fe
+WRadius - ftInteger												//van-der-Waals-Radius in pm
+GEnergie - ftFloat												//Gitterernergie (eV/Gitterteilchen)
+AKoeff - ftFloat												//linearer Ausdehnungskoeffizient (10E-6 KE-1)
+ElModul - ftFloat												//Elastizitätsmodul (10E10 N mE-2)
+ElemGruppe - ftString	==> ftFloat	N=0,1; La=0,2; Ac=0,3						//Elementgruppe
+HQ - ftString												//Äußerste besetzte Schale
+Wertigkeit - ftString												//mögliche stöchiometrische Wertigkeiten
+OxidZahl - ftString												//Oxidationszahlen
+RedPot - ftString												//Reduktionspotential E° in V mit Anzahl der Elektronen für:
+Bio - ftString												//Biologische Bedeutung
+IrOK - ftString												//Ionenradius in pm, Oxidationszahl, entsprechende Koordinationszahl
+Kurzform - ftString												//Kurzform der Elektronenkonfiguration
+1 - ftInteger												//Anz. Elektronen in der äußersten besetzten Schale
+2 - ftInteger												//Anz. Elektronen in der vorletzten besetzten Schale
+3 - ftInteger												//Anz. Elektronen in der 3.-letzten besetzten Schale
+1s - ftInteger
+2s - ftInteger
+2p - ftInteger
+3s - ftInteger
+3p - ftInteger
+3d - ftInteger
+4s - ftInteger
+4p - ftInteger
+4d - ftInteger
+4f - ftInteger
+5s - ftInteger
+5p - ftInteger
+5d - ftInteger
+5f - ftInteger
+6s - ftInteger
+6p - ftInteger
+6d - ftInteger
+7s - ftInteger
+7p - ftInteger
+KStrukt - ftString												//Kristallstruktur
+Phase - ftString		==> ftInteger	1=Gas; 2=Flüssigkeit; 3=Metall; 4=ferromagnetisch; 5=Halbmetall; 6=Halbleiter	//Phase unter Normalbedingungen
+Gruppe - ftString		==> ftFloat	La=0,2; Ac=0,3							//IUPAC Gruppennamen Vorschlag
+TempDiff - ftFloat												//Siede-Schmelztemperatur-Unterschied
+SBE - ftInteger		1=amphoter; 2=basisch; 3=sauer 							//Säure-Base-Eigenschaften
+VW - ftFloat												//Verdampfungswärme
+SW - ftFloat												//Schmelzwärme
+WLF - ftFloat												//Wärmeleitfähigkeit
+SEL - ftFloat												//spezifische elektrische Leitfähigkeit
+SpWarm - ftFloat												//spezifische Wärme (cal/g/°c)
+AVolum - ftFloat												//Atomvolumen
+Nr - ftAutoInc

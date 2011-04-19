@@ -1,0 +1,13 @@
+object JvgBevel: TJvgBevel
+            Left = 33
+            Top = 39
+            Width = 264
+            Height = 31
+            Visible = False
+            BevelInner = bvNone
+            Gradient.FromColor = clYellow
+            Gradient.ToColor = clPurple
+            Gradient.Active = True
+            Gradient.Orientation = fgdVertical
+            VertLines.Count = 10
+          end

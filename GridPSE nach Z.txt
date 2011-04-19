@@ -1,0 +1,23 @@
+with GridPSE do
+    case Z of
+      1: Cells[1,1] := IntToStr(Z) + #13#10 + Sym;
+      2: Cells[18,1] := IntToStr(Z) + #13#10 + Sym;
+      3..10: if Z < 5 then
+               Cells[Z-2,2] := IntToStr(Z) + #13#10 + Sym
+             else Cells[Z+8,2] := IntToStr(Z) + #13#10 + Sym;
+      11..18: if Z < 13 then
+                Cells[Z-10,3] := IntToStr(Z) + #13#10 + Sym
+              else Cells[Z,3] := IntToStr(Z) + #13#10 + Sym;
+      19..36: Cells[Z-18,4] := IntToStr(Z) + #13#10 + Sym;
+      37..54: Cells[Z-36,5] := IntToStr(Z) + #13#10 + Sym;
+      55..86: if Z < 57 then
+                Cells[Z-54,6] := IntToStr(Z) + #13#10 + Sym
+              else if Z > 71 then
+                Cells[Z-68,6] := IntToStr(Z) + #13#10 + Sym
+              else Cells[Z-54,9] := IntToStr(Z) + #13#10 + Sym;
+    else if Z < 89 then
+           Cells[Z-86,7] := IntToStr(Z) + #13#10 + Sym
+         else if Z > 103 then
+           Cells[Z-100,7] := IntToStr(Z) + #13#10 + Sym
+         else Cells[Z-86,10] := IntToStr(Z) + #13#10 + Sym;
+    end;

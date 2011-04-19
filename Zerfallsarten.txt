@@ -1,0 +1,10 @@
+p:	Protonen-Zerfall			6393588
+alpha:	Alpha-Zerfall			9371647
+ec:	Elektronen-Einfang			9240831
+ß+:	Positronen-Zerfall			9240718
+ly
+:	Isomeren-Zerfall			15871
+ß–:	Negatronen-Zerfall			15578368
+sf:	Spontanspaltung			4833871
+ce:	Cluster-Emission z.B. C 14, Ne 20	11036544
+n:	Neutronen-Emission			16110739

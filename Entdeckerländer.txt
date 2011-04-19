@@ -1,0 +1,16 @@
+	Länder		psmu.dat
+		Feld 'Flag'
+
+1	Großbritanien (24)	55		Großbritannien (GBE) Great Britain
+2	Schweden (20)	151		Schweden (SEE) Sweden
+3	Deutschland (19)	34		Deutschland (DEE) Germany
+4	Frankreich (17)	47		Frankreich (FRE) France
+5	USA (17)		187		USA (USN) USA
+6	Russland (5)	139		Russland (RUE) Russia
+7	Österreich (3)	127		Österreich (ATE) Austria
+8	Dänemark (2)	33		Dänemark (DKE) Denmark
+9	Finland (1)	46		Finnland (FIE) Finland
+10	Italien (1)		69		Italien (ITE) Italy
+11	Spanien (1)	161		Spanien (ESE) Spain
+12	Altertum				Frühzeit und Altertum
+13	unentdeckt			unentdeckt

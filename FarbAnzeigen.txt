@@ -1,0 +1,34 @@
+Bezeichnung					Datentyp	Farbart	Spalte		DBNukNa-Nr	Anz.Spalten
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+01 =Elementgruppe					ftFloat	Einzel	ElemGruppe	120		16
+02 =Metalle und Nichtmetalle				ftInteger	Einzel	Phase		121		7
+03 =Aggregatzustände				ftInteger	Einzel	Agg		122		4
+04 Anzahl natürlicher Isotope				ftFloat	Float	AnzNatIso		123		-
+05 Anzahl stabiler Isotope dieses Elements		ftInteger	Float	AnzStabIso	123
+06 Anzahl bekannter instabiler Isotope dieses Elements	ftInteger	Float	AnzInstabIso	124
+07 Massenanteil des Elements in der Erdkruste		ftFloat	Float	MassErd		125
+08 Atommasse in u					ftFloat	Float	DMasse		126
+09 Atomvolumen					ftFloat	Float	AVolum		127
+10 =Dichte des Elements in g/cm³			ftFloat	Float	Dichte		128
+11 =Säure-Base-Eigenschaften			ftInteger	Einzel	SBE		129		4
+12 =Elektronegativität nach Allred und Rochow		ftFloat	Float	ElekN		130
+13 1. Ionisierungsenergie in eV			ftFloat	Float	IEnergie		131
+14 spezifische elektrische Leitfähigkeit			ftFloat	Float	SEL		132
+15 Gitterernergie (eV/Gitterteilchen)			ftFloat	Float	GEnergie		133
+16 Atomradius in pm				ftFloat	Float	ARadius		134
+17 Ionenradius in pm				ftInteger	Float	IRadius		135
+18 Kovalenzradius für Einfachbindungen in pm		ftInteger	Float	KRadius		136
+19 van-der-Waals-Radius in pm			ftInteger	Float	WRadius		137
+20 Schmelztemperatur des Elementes in C°		ftFloat	Float	SchmTemp	138
+21 Siedetemperatur des Elementes in C°			ftFloat	Float	SiedeTemp	139
+22 Siede-Schmelztemperatur-Unterschied		ftFloat	Float	TempDiff		140
+23 Verdampfungswärme				ftFloat	Float	VW		141
+24 Schmelzwärme					ftFloat	Float	SW		142
+25 Wärmeleitfähigkeit				ftFloat	Float	WLF		143
+26 spezifische Wärme (cal/g/°c)			ftFloat	Float	SpWarm		144
+27 =Supraleitfähigkeit				ftInteger	Einzel	Supra		145		3
+28 linearer Ausdehnungskoeffizient			ftFloat	Float	AKoeff		146
+29 Elastizitätsmodul					ftFloat	Float	ElModul		147
+30 =Kristallstruktur					ftString	Einzel	KStrukt		148		11
+31 =Biologische Bedeutung				ftString	Einzel	Bio		149		6
+32 =Entdeckung der Elemente				ftInteger	Einzel	Entdeckt		150		5
